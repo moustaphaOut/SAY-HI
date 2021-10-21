@@ -1,0 +1,2 @@
+rootProject.name='GitList App'
+include ':app'
